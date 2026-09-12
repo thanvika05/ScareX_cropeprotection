@@ -1,0 +1,10 @@
+dataset/
+logs/
+yolov8x/
+__pycache__/
+*.db
+*.pdf
+*.pt
+*.mp4
+*.mp3
+*.wav
